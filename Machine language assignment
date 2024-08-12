@@ -1,0 +1,38 @@
+Healthcare - Predicting Patient Readmission
+
+*Problem Statement:*
+
+Reducing hospital readmissions is a critical concern in healthcare, as it leads to increased costs, morbidity, and mortality. Accurately identifying patients at risk of readmission can help healthcare providers take proactive measures to prevent it.
+
+*Solutions:*
+
+Machine learning can help predict patient readmission by analyzing electronic health records (EHRs), claims data, and other relevant information. By identifying high-risk patients, healthcare providers can:
+
+1. Intensify patient engagement and education
+2. Optimize treatment plans and medication management
+3. Coordinate post-discharge care and follow-up appointments
+
+*ML Algorithms:*
+
+1. Logistic Regression
+2. Decision Trees
+3. Random Forest
+4. Gradient Boosting
+5. Neural Networks
+
+*Data Set:*
+
+The dataset used for this problem can be a combination of:
+
+1. Electronic Health Records (EHRs)
+2. Claims data
+3. Patient demographics
+4. Clinical data (e.g., lab results, medication lists)
+5. Historical readmission data
+
+Some publicly available datasets that can be used for this problem include:
+
+1. MIMIC-III (Medical Information Mart for Intensive Care III)
+2. eICU-CRD (eICU Collaborative Research Database)
+3. CMS (Centers for Medicare and Medicaid Services) claims data
+
